@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Links:
+- [Linkedin](https://www.linkedin.com/in/stephencovelluk/)
+- [Personal Website](https://www.stephencovell.co.uk)
+
+
 <!--
 **stephencovell/stephencovell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
